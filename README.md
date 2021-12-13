@@ -10,3 +10,9 @@ BROUGHT TO YOU BY:
 
 https://github.com/obsproject/obs-studio <br />
 https://github.com/OpenShot
+
+
+THE BOYS:
+@coldones
+@mrbeast
+@simpsonsshitposting
