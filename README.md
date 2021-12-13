@@ -8,5 +8,5 @@ Also, this is under the 'I don't give two shits' license.
 
 BROUGHT TO YOU BY:
 
-https://github.com/obsproject/obs-studio
+https://github.com/obsproject/obs-studio <br />
 https://github.com/OpenShot
